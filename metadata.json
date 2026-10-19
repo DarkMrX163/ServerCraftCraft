@@ -1,0 +1,6 @@
+{
+  "name": "AetherCraft Server Console & GitHub Exporter",
+  "description": "15-player game server console with mod support, automated scheduled backups, real-time configuration tuning, and GitHub export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
